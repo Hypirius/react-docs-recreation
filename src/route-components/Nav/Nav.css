@@ -1,0 +1,21 @@
+#main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-block: 15px;
+  padding-inline: 40px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  border: solid 2px black;
+}
+
+#nav-link-list {
+  display: flex;
+  gap: 18px;
+}
+
+#nav-list-list li {
+  height: 40px;
+}
