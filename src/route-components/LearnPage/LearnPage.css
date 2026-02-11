@@ -1,0 +1,6 @@
+aside {
+  height: calc(100% - 50px);
+  width: 20%;
+  background-color: #181b20;
+  border-right: solid 2px white;
+}

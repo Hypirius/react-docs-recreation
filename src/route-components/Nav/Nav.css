@@ -8,7 +8,7 @@
   position: sticky;
   top: 0;
   width: 100%;
-  border: solid 2px black;
+  border-bottom: solid 2px white;
 }
 
 #nav-link-list {
